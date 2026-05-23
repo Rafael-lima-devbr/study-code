@@ -26,10 +26,10 @@ study-code/
 |---|---|
 | `exercises/bhaskara.c` | Fórmula de Bhaskara, raízes reais e complexas |
 | `exercises/binary_to_decimal.c` | Conversão de base, loop com potência |
-| `exercises/temperature_converter.c` | Menu interativo, loop, switch |
-| `exercises/volume_waste.c` | Cálculo de volume de cilindro |
+| `exercises/temperature_converter.c` | Conversão entre Celsius, Fahrenheit e Kelvin com menu interativo e loop contínuo |
+| `exercises/volume_waste.c` | Cálculo de volume de cilindro, volume final alternativo e desperdício entre os dois |
 | `exercises/prime_sum.c` | Identificação de primos, acumulador |
-| `exercises/resistance_calculator.c` | Circuitos série e paralelo |
+| `exercises/resistance_calculator.c` | Circuitos série e paralelo para n resistores |
 | `exercises/interlock.c` | Lógica de segurança industrial |
 
 ---
