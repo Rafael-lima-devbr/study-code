@@ -31,6 +31,7 @@ study-code/
 | `exercises/prime_sum.c` | Prime number identification, accumulator |
 | `exercises/resistance_calculator.c` | Series and parallel circuits for n resistors |
 | `exercises/interlock.c` | Industrial safety interlock logic |
+| `exercises/rock_paper_scissors.c` | Rock, paper, scissors simulation — random moves, win/loss/draw tracking over 10 rounds |
 
 ---
 
