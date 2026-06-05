@@ -1,0 +1,32 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+int main() {
+	int N;
+	cin >> N;
+	vector <string> gerais(N);
+	for (int i = 0; i<N; i++) {
+		cin >> gerais[i];
+	}
+
+	int M;
+	cin >> M;
+	vector <string> proibidos(M);
+	for (int i = 0; i<M; i++) {
+		cin >> proibidos[i];
+	}
+
+	int C;
+	cin >> C;
+	for (int i= 0; i<C; i++) {
+		string magia;
+		cin >> magia;
+		if(binary_search(proibidos.begin(),proibidos.end(), magia)) {
+			cout << "Proibido\n";
+		} else {
+			cout << "Geral\n";
+		}
+	}
+}
