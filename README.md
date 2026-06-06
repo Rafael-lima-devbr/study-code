@@ -44,6 +44,7 @@ study-code/
 | `exercises/trevamata_bilbo.cpp`       | Weight verification and conditionals                                                                   |
 | `exercises/yoda_padawan_selector.cpp` | Name-based sorting with std::sort                                                                      |
 | `exercises/spell_classifier.cpp`      | Binary search on sorted strings, vectors, classification of spells and competitive programming queries |
+| `exercises/pokedex_tracker.cpp`       | std::set, duplicate detection, insertion and lookup in ordered sets, Pokédex registration simulation   |
 
 ---
 
