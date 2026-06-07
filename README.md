@@ -37,14 +37,15 @@ study-code/
 
 ## C++
 
-| File                                  | What it practices                                                                                      |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| `exercises/dark_date_sort.cpp`        | std::sort with custom comparator                                                                       |
-| `exercises/ori_xp_calculator.cpp`     | Arithmetic with bonuses and level-up check                                                             |
-| `exercises/trevamata_bilbo.cpp`       | Weight verification and conditionals                                                                   |
-| `exercises/yoda_padawan_selector.cpp` | Name-based sorting with std::sort                                                                      |
-| `exercises/spell_classifier.cpp`      | Binary search on sorted strings, vectors, classification of spells and competitive programming queries |
-| `exercises/pokedex_tracker.cpp`       | std::set, duplicate detection, insertion and lookup in ordered sets, Pokédex registration simulation   |
+| File                                     | What it practices                                                                                           |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `exercises/dark_date_sort.cpp`           | std::sort with custom comparator                                                                            |
+| `exercises/ori_xp_calculator.cpp`        | Arithmetic with bonuses and level-up check                                                                  |
+| `exercises/trevamata_bilbo.cpp`          | Weight verification and conditionals                                                                        |
+| `exercises/yoda_padawan_selector.cpp`    | Name-based sorting with std::sort                                                                           |
+| `exercises/spell_classifier.cpp`         | Binary search on sorted strings, vectors, classification of spells and competitive programming queries      |
+| `exercises/pokedex_tracker.cpp`          | std::set, duplicate detection, insertion and lookup in ordered sets, Pokédex registration simulation        |
+| `exercises/mars_colonists_selection.cpp` | Structs, custom sorting, tie-breaking rules, top-N selection, set of pairs and efficient membership queries |
 
 ---
 
