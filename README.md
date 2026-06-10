@@ -22,16 +22,17 @@ study-code/
 
 ## C
 
-| File                                | What it practices                                                                      |
-| ----------------------------------- | -------------------------------------------------------------------------------------- |
-| `exercises/bhaskara.c`              | Bhaskara formula, real and complex roots                                               |
-| `exercises/binary_to_decimal.c`     | Base conversion, loop with exponentiation                                              |
-| `exercises/temperature_converter.c` | Celsius, Fahrenheit and Kelvin conversion with interactive menu and continuous loop    |
-| `exercises/volume_waste.c`          | Cylinder volume, alternative final volume and waste between the two                    |
-| `exercises/prime_sum.c`             | Prime number identification, accumulator                                               |
-| `exercises/resistance_calculator.c` | Series and parallel circuits for n resistors                                           |
-| `exercises/interlock.c`             | Industrial safety interlock logic                                                      |
-| `exercises/rock_paper_scissors.c`   | Rock, paper, scissors simulation — random moves, win/loss/draw tracking over 10 rounds |
+| File                                | What it practices                                                                        |
+| ----------------------------------- | ---------------------------------------------------------------------------------------- |
+| `exercises/bhaskara.c`              | Bhaskara formula, real and complex roots                                                 |
+| `exercises/binary_to_decimal.c`     | Base conversion, loop with exponentiation                                                |
+| `exercises/decimal_to_binary.c`     | Decimal-to-binary conversion using repeated division, arrays and binary palindrome check |
+| `exercises/temperature_converter.c` | Celsius, Fahrenheit and Kelvin conversion with interactive menu and continuous loop      |
+| `exercises/volume_waste.c`          | Cylinder volume, alternative final volume and waste between the two                      |
+| `exercises/prime_sum.c`             | Prime number identification, accumulator                                                 |
+| `exercises/resistance_calculator.c` | Series and parallel circuits for n resistors                                             |
+| `exercises/interlock.c`             | Industrial safety interlock logic                                                        |
+| `exercises/rock_paper_scissors.c`   | Rock, paper, scissors simulation — random moves, win/loss/draw tracking over 10 rounds   |
 
 ---
 
