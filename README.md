@@ -47,6 +47,7 @@ study-code/
 | `exercises/spell_classifier.cpp`         | Binary search on sorted strings, vectors, classification of spells and competitive programming queries      |
 | `exercises/pokedex_tracker.cpp`          | std::set, duplicate detection, insertion and lookup in ordered sets, Pokédex registration simulation        |
 | `exercises/mars_colonists_selection.cpp` | Structs, custom sorting, tie-breaking rules, top-N selection, set of pairs and efficient membership queries |
+| `exercises/leprechaun_luck.cpp`          | Set union, counting distinct elements, duplicate elimination and conditional classification                 |
 
 ---
 
