@@ -48,6 +48,7 @@ study-code/
 | `exercises/pokedex_tracker.cpp`          | std::set, duplicate detection, insertion and lookup in ordered sets, Pokédex registration simulation        |
 | `exercises/mars_colonists_selection.cpp` | Structs, custom sorting, tie-breaking rules, top-N selection, set of pairs and efficient membership queries |
 | `exercises/leprechaun_luck.cpp`          | Set union, counting distinct elements, duplicate elimination and conditional classification                 |
+| `exercises/bar_chart.cpp`                | 2D arrays, matrix traversal, maximum value search, visual data representation and competitive programming   |
 
 ---
 
