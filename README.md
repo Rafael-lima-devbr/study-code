@@ -49,6 +49,7 @@ study-code/
 | `exercises/mars_colonists_selection.cpp` | Structs, custom sorting, tie-breaking rules, top-N selection, set of pairs and efficient membership queries |
 | `exercises/leprechaun_luck.cpp`          | Set union, counting distinct elements, duplicate elimination and conditional classification                 |
 | `exercises/bar_chart.cpp`                | 2D arrays, matrix traversal, maximum value search, visual data representation and competitive programming   |
+| `exercises/cafeteria.cpp`                | Interval analysis, divisibility, multiples checking, brute force search and competitive programming         |
 
 ---
 
