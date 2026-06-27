@@ -51,6 +51,7 @@ study-code/
 | `exercises/bar_chart.cpp` | 2D arrays, matrix traversal, maximum value search, visual data representation and competitive programming |
 | `exercises/cafeteria.cpp` | Interval analysis, divisibility, multiples checking, brute force search and competitive programming |
 | `exercises/holy_war.cpp` | Queue (FIFO), circular rotation, combat simulation, STL queue operations and competitive programming |
+| `exercises/round_robin.cpp` | Queue (FIFO), process scheduling simulation, circular queues, Round-Robin algorithm and competitive programming |
 
 ---
 
