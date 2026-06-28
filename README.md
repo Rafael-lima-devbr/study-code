@@ -14,7 +14,7 @@ study-code/
 │   └── exercises/
 ├── cpp/
 │   └── exercises/
-└── python/
+└── py/
     └── exercises/
 ```
 
