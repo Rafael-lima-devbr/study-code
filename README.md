@@ -40,16 +40,16 @@ study-code/
 
 | File | What it practices |
 |---|---|
-| `exercises/dark_date_sort.cpp` | std::sort with custom comparator |
+| `exercises/dark_date_sort.cpp` | `std::sort` with custom comparator |
 | `exercises/ori_xp_calculator.cpp` | Arithmetic with bonuses and level-up check |
 | `exercises/trevamata_bilbo.cpp` | Weight verification and conditionals |
-| `exercises/yoda_padawan_selector.cpp` | Name-based sorting with std::sort |
+| `exercises/yoda_padawan_selector.cpp` | Name-based sorting with `std::sort` |
 | `exercises/spell_classifier.cpp` | Binary search on sorted strings, vectors, classification of spells and competitive programming queries |
-| `exercises/pokedex_tracker.cpp` | std::set, duplicate detection, insertion and lookup in ordered sets, Pokédex registration simulation |
+| `exercises/pokedex_tracker.cpp` | `std::set`, duplicate detection, insertion and lookup in ordered sets, Pokédex registration simulation |
 | `exercises/mars_colonists_selection.cpp` | Structs, custom sorting, tie-breaking rules, top-N selection, set of pairs and efficient membership queries |
 | `exercises/leprechaun_luck.cpp` | Set union, counting distinct elements, duplicate elimination and conditional classification |
 | `exercises/bar_chart.cpp` | 2D arrays, matrix traversal, maximum value search, visual data representation and competitive programming |
-| `exercises/cafeteria.cpp` | Interval analysis, divisibility, multiples checking, brute force search and competitive programming |
+| `exercises/cafeteria.cpp` | Interval analysis, divisibility, multiples checking, brute-force search and competitive programming |
 | `exercises/holy_war.cpp` | Queue (FIFO), circular rotation, combat simulation, STL queue operations and competitive programming |
 | `exercises/round_robin.cpp` | Queue (FIFO), process scheduling simulation, circular queues, Round-Robin algorithm and competitive programming |
 
@@ -57,7 +57,10 @@ study-code/
 
 ## Python
 
-*Coming soon.*
+| File | What it practices |
+|---|---|
+| `exercises/Bank_Account.py` | Object-oriented programming, classes, encapsulation, constructors, getters, setters and object interaction |
+| `exercises/Calculadora/` | Tkinter GUI, widgets, event handling, callbacks, modularization and arithmetic expression evaluation |
 
 ---
 
