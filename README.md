@@ -68,7 +68,9 @@ study-code/
 | `UFBA_GruPro_Intermediary/ori-xp-calculator.cpp` | Arithmetic with bonuses and level-up verification |
 | `UFBA_GruPro_Intermediary/pokedex_tracer.cpp` | `std::set`, duplicate detection, insertion and lookup |
 | `UFBA_GruPro_Intermediary/round_robin.cpp` | Queue (FIFO), process scheduling simulation and Round-Robin algorithm |
+| `UFBA_GruPro_Intermediary/samwell_translation.cpp` | `std::map`, key-value dictionaries, string lookup, associative containers and text translation |
 | `UFBA_GruPro_Intermediary/spell_classifier.cpp` | Binary search on sorted strings and query processing |
+| `UFBA_GruPro_Intermediary/tetris.cpp` | `std::stack`, stack operations (push/pop/top), pattern matching, game simulation and competitive programming |
 | `UFBA_GruPro_Intermediary/trevamata-bilbo.cpp` | Conditionals and weight verification |
 | `UFBA_GruPro_Intermediary/yoda-padawan-selector.cpp` | Name sorting with `std::sort` |
 
