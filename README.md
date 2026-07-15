@@ -70,6 +70,7 @@ study-code/
 | `UFBA_GruPro_Intermediary/luck_game.cpp` | Set union and unique element counting |
 | `UFBA_GruPro_Intermediary/saint_seiya_holy_war.cpp` | Queue (FIFO) simulation |
 | `UFBA_GruPro_Intermediary/round_robin.cpp` | Process scheduling simulation using queues |
+| `snape_missions.cpp` | Priority queues (max/min heap) with custom comparator for pairing by priority |
 | `UFBA_GruPro_Intermediary/tetres.cpp` | Stack simulation and block matching logic |
 | `UFBA_GruPro_Intermediary/westeros_dictionary.cpp` | Dictionary translation using `std::map` |
 | `UFBA_GruPro_Intermediary/anthill.cpp` | Depth-first search (DFS) using stack and visited set |
