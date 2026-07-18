@@ -72,6 +72,7 @@ study-code/
 | `UFBA_GruPro_Intermediary/round_robin.cpp` | Process scheduling simulation using queues |
 | `snape_missions.cpp` | Priority queues (max/min heap) with custom comparator for pairing by priority |
 | `pierres_warehouse.cpp` | Priority queue for priority-based service scheduling |
+| `item_collection.cpp` | std::map for inventory management, accumulation and requirement validation |
 | `UFBA_GruPro_Intermediary/tetres.cpp` | Stack simulation and block matching logic |
 | `UFBA_GruPro_Intermediary/westeros_dictionary.cpp` | Dictionary translation using `std::map` |
 | `UFBA_GruPro_Intermediary/anthill.cpp` | Depth-first search (DFS) using stack and visited set |
