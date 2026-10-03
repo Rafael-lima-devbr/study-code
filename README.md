@@ -43,7 +43,7 @@ Examples include:
 | `Calculadora-de-Resistencia-Equivalente-Serie-Paralelo.c` | Series and parallel resistance calculations |
 | `Intertravamento_de_Seguranca.c` | Industrial safety interlock logic |
 | `Pedra_papel_tesoura.c` | Game logic and score tracking |
-| `user_reader.c` | User input and basic data handling |
+| `user_reader.c` | String traversal, dynamic memory allocation and palindrome verification |
 
 ## C++
 
