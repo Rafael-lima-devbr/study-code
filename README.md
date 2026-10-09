@@ -1,6 +1,6 @@
 # study-code
 
-Study repository for **C, C++ and Python** exercises, programming contests and learning experiments.
+Study repository for **C, C++ and Python** exercises, programming contests, mini projects and learning experiments.
 
 **Status:** Ongoing study repository
 
@@ -17,9 +17,10 @@ study-code/
 │   └── exercises/
 │       ├── OBI/
 │       │   └── obi-2025-fase-1/
+│       ├── UFBA_GruPro_Advanced_A/
 │       └── UFBA_GruPro_Intermediary/
 ├── py/
-│   └── exercises/
+│   └── mini_projects/
 │       ├── Bank_Account/
 │       └── Calculadora/
 ├── LICENSE
@@ -36,13 +37,14 @@ Examples include:
 |---|---|
 | `Calculadora-Bhaskara.c` | Quadratic equations and conditional logic |
 | `binary_to_decimal.c` | Loops and binary-to-decimal conversion |
-| `decimal_to_binary.c` | Decimal-to-binary conversion and palindrome logic |
+| `decimal_to_binary.c` | Decimal-to-binary conversion and palindrome verification |
 | `Conversor_de_Temperaturas.c` | Menus, conditionals and unit conversion |
 | `Calculadora-desperdicio-volume.c` | Geometric calculations and percentage analysis |
 | `PrimeSum100.c` | Prime-number testing and accumulation |
 | `Calculadora-de-Resistencia-Equivalente-Serie-Paralelo.c` | Series and parallel resistance calculations |
 | `Intertravamento_de_Seguranca.c` | Industrial safety interlock logic |
 | `Pedra_papel_tesoura.c` | Game logic and score tracking |
+| `next_day.c` | Date handling, month transitions and leap-year logic |
 | `user_reader.c` | String traversal, dynamic memory allocation and palindrome verification |
 
 ## C++
@@ -60,6 +62,15 @@ festa_junina.cpp
 garfield.cpp
 ```
 
+### UFBA GruPro — Advanced A
+
+This section contains competitive-programming exercises from the Advanced A group.
+
+Current files include:
+
+- `legendary_sake.cpp` — sorting and `upper_bound` to answer price-limit queries;
+- `power_rangers.cpp` — sorting, feasibility checking and binary search on the answer.
+
 ### UFBA GruPro — Intermediary
 
 This section contains competitive-programming exercises focused on algorithms and data structures such as:
@@ -76,17 +87,19 @@ Representative files include `dark-date-sort.cpp`, `round_robin.cpp`, `snape_mis
 
 ## Python
 
+The Python section contains small learning projects rather than standalone exercise solutions.
+
 ### Bank Account
 
-`py/exercises/Bank_Account/` contains a small object-oriented exercise with `Cliente.py`, `Conta.py` and `main.py`, focused on classes, encapsulation and methods.
+`py/mini_projects/Bank_Account/` contains a small object-oriented banking project with `Cliente.py`, `Conta.py` and `main.py`, focused on classes, encapsulation and account operations.
 
 ### Calculator
 
-`py/exercises/Calculadora/` contains a Tkinter calculator split into `main.py` and `Buttons.py`, practicing GUI development, event handling and basic modularization.
+`py/mini_projects/Calculadora/` contains a Tkinter calculator split into `main.py` and `Buttons.py`, practicing GUI development, event handling and basic modularization.
 
 ## Purpose
 
-This repository exists to document learning progress and keep exercises organized in one place instead of presenting each small exercise as a separate project.
+This repository exists to document learning progress and keep exercises, contest solutions and small learning projects organized in one place instead of presenting each small piece of study code as a separate repository.
 
 It is intentionally different from the repositories used for larger projects such as robotics, cybersecurity and DevSecOps work.
 
