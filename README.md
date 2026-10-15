@@ -45,6 +45,7 @@ Examples include:
 | `Intertravamento_de_Seguranca.c` | Industrial safety interlock logic |
 | `Pedra_papel_tesoura.c` | Game logic and score tracking |
 | `next_day.c` | Date handling, month transitions and leap-year logic |
+| `particle_acelerator.c` | Conditional logic, modular arithmetic and particle-exit simulation |
 | `user_reader.c` | String traversal, dynamic memory allocation and palindrome verification |
 
 ## C++
@@ -64,12 +65,16 @@ garfield.cpp
 
 ### UFBA GruPro — Advanced A
 
-This section contains competitive-programming exercises from the Advanced A group.
+This section contains competitive-programming exercises from the Advanced A group, with practice in binary search, prefix sums, sliding windows, two pointers, sorting and feasibility checks.
 
 Current files include:
 
 - `legendary_sake.cpp` — sorting and `upper_bound` to answer price-limit queries;
-- `power_rangers.cpp` — sorting, feasibility checking and binary search on the answer.
+- `power_rangers.cpp` — sorting, feasibility checking and binary search on the answer;
+- `Crimson Corruption.cpp` — feasibility checking and binary search on the answer;
+- `Random Punch Out.cpp` — sliding window for the maximum valid contiguous segment;
+- `brothers.cpp` — prefix sums with alternating signs and hash-map lookup;
+- `Container With Most Water.cpp` — two pointers for maximum container area.
 
 ### UFBA GruPro — Intermediary
 
